@@ -53,12 +53,4 @@ The scraper generates these files from the actual site; the books are not hardco
 - [x] Optimized GBP 100 purchasing challenge
 - [x] Bonus page count, product URLs, rating totals, and chart
 - [ ] Confirm that the GitHub Actions workflow generated the output files
-- [ ] Publish a LinkedIn post linking to this repository
 
-## LinkedIn post template
-
-I built a Python web scraper for my Business Data and Text Mining assignment using requests, BeautifulSoup, and Pandas. It collects book titles, prices, ratings, availability, and product URLs across five pages of the Books to Scrape practice site. I then analyzed seven business questions, visualized rating counts using Matplotlib, and used dynamic programming to select a set of books with the highest total star points under a GBP 100 budget.
-
-Project: https://github.com/hamisarqum/Book-Web-scraping
-
-#Python #WebScraping #BeautifulSoup #Pandas #DataAnalytics
